@@ -1,0 +1,15 @@
+{
+  "name": "cga-cli",
+  "version": "0.0.1",
+  "description": "CGA (Code Golf Association) CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Golf",
+    "CodeGolf"
+  ],
+  "author": "greg considine <greg@greg-considine.com>",
+  "license": "MIT"
+}
