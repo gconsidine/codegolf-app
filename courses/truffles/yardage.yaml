@@ -1,0 +1,13 @@
+---
+name: Truffles
+description: |
+  A description of the full course
+holes: 
+  - par: 4
+    requirements: |
+      Full requirements for a valid submission
+  - par: 5
+    resources: path to resources (files, images, etc). Optional.
+    requirements: |
+      Full requirements for a valid submission
+
